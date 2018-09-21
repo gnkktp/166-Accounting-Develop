@@ -1,0 +1,6 @@
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\bin\Debug\Account-166.exe
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\bin\Debug\Account-166.pdb
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\obj\Debug\Account-166.csprojResolveAssemblyReference.cache
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\obj\Debug\Account-166.csproj.CoreCompileInputs.cache
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\obj\Debug\Account-166.exe
+C:\Users\GNKKTP\source\repos\Account-166\Account-166\obj\Debug\Account-166.pdb
